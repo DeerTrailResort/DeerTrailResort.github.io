@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.bdf790d0.chunk.css",
+    "main.js": "/home/static/js/main.5db85a3d.chunk.js",
+    "main.js.map": "/home/static/js/main.5db85a3d.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.1042a337.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.1042a337.js.map",
+    "static/js/2.377c3c0b.chunk.js": "/home/static/js/2.377c3c0b.chunk.js",
+    "static/js/2.377c3c0b.chunk.js.map": "/home/static/js/2.377c3c0b.chunk.js.map",
+    "static/js/3.18845da8.chunk.js": "/home/static/js/3.18845da8.chunk.js",
+    "static/js/3.18845da8.chunk.js.map": "/home/static/js/3.18845da8.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.de1f13d1f7a666b3708380867c5dec65.js": "/home/precache-manifest.de1f13d1f7a666b3708380867c5dec65.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.bdf790d0.chunk.css.map": "/home/static/css/main.bdf790d0.chunk.css.map",
+    "static/js/2.377c3c0b.chunk.js.LICENSE.txt": "/home/static/js/2.377c3c0b.chunk.js.LICENSE.txt",
+    "static/js/main.5db85a3d.chunk.js.LICENSE.txt": "/home/static/js/main.5db85a3d.chunk.js.LICENSE.txt",
+    "static/media/DTR_Home.jpg": "/home/static/media/DTR_Home.2e0cebd1.jpg",
+    "static/media/ayo-ogunseinde-2.jpg": "/home/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/home/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/home/static/media/clem-onojeghuo-3.ae11d928.jpg",
+    "static/media/clouds.png": "/home/static/media/clouds.61c4e000.png",
+    "static/media/erik-lucatero-2.jpg": "/home/static/media/erik-lucatero-2.2051e0e8.jpg",
+    "static/media/fabio-mangione.jpg": "/home/static/media/fabio-mangione.f26c34bb.jpg",
+    "static/media/fog-low.png": "/home/static/media/fog-low.7812184c.png",
+    "static/media/joe-gardner-2.jpg": "/home/static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/login-image.jpg": "/home/static/media/login-image.be9fa468.jpg",
+    "static/media/paper-kit.scss?v=1.2.0": "/home/static/media/nucleo-icons.f32ed5ad.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1042a337.js",
+    "static/js/2.377c3c0b.chunk.js",
+    "static/css/main.bdf790d0.chunk.css",
+    "static/js/main.5db85a3d.chunk.js"
+  ]
+}
