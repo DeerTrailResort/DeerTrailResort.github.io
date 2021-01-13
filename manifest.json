@@ -3,9 +3,9 @@
   "name": "Deer Trail Resort and Campground",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "dtr-logo.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
     },
     {
       "src": "dtr-logo.png",
