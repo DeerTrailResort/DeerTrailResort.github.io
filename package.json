@@ -2,7 +2,7 @@
   "name": "deer-trail-resort",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://deertrailresort.github.io/home",
+  "homepage": "https://deertrailresort.github.io",
   "dependencies": {
     "classnames": "2.2.6",
     "moment": "2.26.0",
