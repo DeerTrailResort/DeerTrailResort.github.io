@@ -134,6 +134,11 @@ function ExamplesNavbar() {
               <a href="contact.html"  class="btn btn-danger btn-round">Contact Us</a>
             </li>
             </NavItem>
+            <NavItem>
+            <li class="nav-item">
+              <a href="contact.html"  class="btn btn-sucess btn-round">Install Our App</a>
+            </li>
+            </NavItem>
 
           </Nav>
         </Collapse>
